@@ -1,0 +1,16 @@
+# Environments & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+.venv/
+env/
+venv/
+*.egg-info/
+
+# DO NOT ignore reports folder (required for submission)
+!reports/
+!reports/*.png
+!reports/*.csv
+!reports/*.json

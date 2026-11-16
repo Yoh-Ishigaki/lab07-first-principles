@@ -1,0 +1,10 @@
+{
+  "baselines": {
+    "mean_predictor_val_mae": 10.153897247314454,
+    "linear_regression_val_mae": 9.316919326782227
+  },
+  "test_result": {
+    "test_mae": 4.852604242960612,
+    "test_loss": 60.176164042154944
+  }
+}
